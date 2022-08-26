@@ -1,6 +1,2 @@
 hello
-<<<<<<< HEAD
-newline from fix
-=======
 newline from dev
->>>>>>> dev
